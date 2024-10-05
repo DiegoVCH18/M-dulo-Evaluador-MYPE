@@ -1,4 +1,4 @@
-# M-dulo-Evaluador-MYPE
+# Modulo-Evaluador-MYPE
 Este repositorio contiene el Módulo Evaluador MYPE, una herramienta desarrollada en VBA para Excel que permite realizar la evaluación integral de solicitudes de crédito para micro y pequeñas empresas (MYPEs).El objetivo del módulo es proporcionar una plataforma de simulación para estudiantes y profesionales que deseen familiarizarse con el proceso de evaluación crediticia.
 
 Características principales:
